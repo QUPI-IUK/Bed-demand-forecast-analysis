@@ -1,0 +1,15 @@
+<br>
+<b>Release notes v0.5.5c</b><br>
+<i>Exponential Smoothing update</i><br>
+<br>
+<br>
+Model: <br>
+- Small update in default parameter settings. Proportion patients transfered from GW to ICU lowered from 40 to 20 percent<br>
+<br>
+UX/UI:<br>
+<br>
+<br>
+Bugfixes:<br>
+<br>
+<br>
+<br>
